@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagarhemraj1
+- 👋 Hi, I’m @sagarhemraj1 (Sagar Hemraj)
 - 👀 I’m interested in learning Python and exploring areas like web development, automation, and data science.
 - 🌱 I’m currently learning Python and working on beginner-level projects to build my skills.
 - 💞️ I’m looking to collaborate on beginner-friendly Python projects, especially those that involve automating tasks or building simple web apps.
